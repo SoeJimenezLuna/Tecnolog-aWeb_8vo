@@ -3,7 +3,7 @@
 	position: relative;
 
 	display: grid;
-	grid-template-columns: repeat(6,20%);
+	grid-template-columns: repeat(9,20%);
 	/*grid-auto-rows: 50px;*/ 
 
 }
