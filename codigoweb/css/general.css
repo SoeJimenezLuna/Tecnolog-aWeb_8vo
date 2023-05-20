@@ -26,6 +26,9 @@ body::-webkit-scrollbar-thumb{
 .texto-claro{
 	color: #505AFC;
 }
+.texto-azul-claro{
+	color: #00badb;
+}
 
 .segundo-contenedor{
 	position: relative;

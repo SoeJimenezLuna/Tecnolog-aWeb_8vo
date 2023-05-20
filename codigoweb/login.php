@@ -17,7 +17,7 @@ $siesta=pg_num_rows(pg_query($miconexion,"SELECT * FROM usuario WHERE correo='$C
 
   if ($siesta == true) {
     $_SESSION['user']=$Correo;
-      header("Location:datosgeneral.php");
+      header("Location:Alumno/");
   }else{
     echo"<script> alert('Usuario o contraseña incorrecto') </script> ";
    }
