@@ -1,0 +1,138 @@
+.cont-datos{
+	position: relative;
+}
+.contenedor-caja-blanca{
+	position: relative;
+}
+.conenedor-fecha{
+	position: relative;
+}
+.caja-blanca{
+	background: #fff;
+	position: relative;
+	border-radius: 6px;
+	width: 100%;
+}
+.caja-blanca i{
+	font-size: 30px;
+	position: absolute;
+	top: 16px;
+	right: 16px;
+	color: #424f8f;
+}
+
+.caja-blanca h3{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #1E1E1E;
+    position: relative;
+    width: 100%;
+    text-align: left;
+}
+.caja-blanca h4{
+font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #1E1E1E;
+    font-size: 26px;
+    position: relative;
+    width: 100%;
+    text-align: left;
+}	
+
+.caja-blanca img{
+	position: relative;
+	width: 100%;
+
+}
+
+
+.btn-filtrar{
+	text-decoration: none;
+	position: relative;
+	display: inline-block;
+	padding: 12px 15px;
+	background: #424f8f;
+	border: 1px solid #424f8f;
+	color: #fff;
+	border-radius: 5px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 20px;
+	transition: all 500ms linear;
+	cursor: pointer;
+}
+.btn-filtrar:hover{
+	background: #FFF;
+	color: #424f8f;
+	transition: all 500ms linear;
+}
+.fec h5{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    color: #424f8f;
+}
+
+.fec h4{
+    margin-bottom:  10px;
+    color: #424f8f;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+
+.fec input[type="date"]{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #1E1E1E;
+    padding: 8px;
+}
+
+@media screen  and (max-width: 1200px){
+
+}
+
+@media screen  and (max-width: 992px){
+	
+}
+@media screen  and (max-width: 768px){
+	.caja-blanca i{
+	font-size: 26px;
+	}
+	.caja-blanca h3{
+    font-size: 27px;
+	}
+	.caja-blanca h4{
+    font-size: 22px;
+	}	
+	
+	.fec h5{
+    font-size: 23px;
+   	}
+
+	.fec h4{
+    font-size: 16px;
+	}
+
+	.fec input[type="date"]{
+    font-size: 16px;
+    padding: 5px;
+	}
+
+}
+@media screen  and (max-width: 576px){
+	.fec h5{
+    font-size: 19px;
+   	}
+	.caja-blanca i{
+	font-size: 23px;
+	}
+	.caja-blanca h3{
+    font-size: 24px;
+	}
+	.caja-blanca h4{
+    font-size: 19px;
+	}	
+}

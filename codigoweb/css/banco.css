@@ -1,0 +1,63 @@
+
+
+.titulo-horario{
+	position: relative;
+	font-size: 26px;
+	font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #505AFC;
+}
+.texto-horario{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #1E1E1E;
+}
+.caja-banco{
+	position: relative;
+	border-radius:5px;
+	background:  
+}
+.caja-banco img{
+	position: relative;
+	width: 100%;
+}
+
+.NumeroBanco{
+	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #1E1E1E;
+    width: 100%;
+    text-align: center;
+}
+
+@media screen  and (max-width: 1200px){
+
+}
+@media screen  and (max-width: 992px){
+
+}
+@media screen  and (max-width: 768px){
+	.texto-horario{
+ 	font-size: 16px;
+	}
+	.titulo-horario{
+	font-size: 22px;
+	}
+
+}
+@media screen  and (max-width: 992px){
+
+}
+@media screen  and (max-width: 576px){
+	.texto-horario{
+ 	font-size: 14px;
+	}
+	.titulo-horario{
+	font-size: 18px;
+	}
+	.NumeroBanco{
+ 	font-size: 16px;
+	}
+}
