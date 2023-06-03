@@ -35,54 +35,51 @@
         </aside>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué son las Bases de Datos?</h2>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/base2.jpg" alt="" class="relative w-full rounded">
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
+                <p class='text-xl font-Lato text-justify'>Una base de datos es una recopilación organizada de información o datos estructurados, que normalmente se almacena de forma electrónica en un sistema informático. 
                 </p>
                 <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
+                    Normalmente, una base de datos está controlada por un sistema de gestión de bases de datos (DBMS). En conjunto, los datos y el DBMS, junto con las aplicaciones asociadas a ellos, reciben el nombre de sistema de bases de datos, abreviado normalmente a simplemente base de datos.
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>Los datos de los tipos más comunes de bases de datos en funcionamiento actualmente se suelen utilizar como estructuras de filas y columnas en una serie de tablas para aumentar la eficacia del procesamiento y la consulta de datos. Así, se puede acceder, gestionar, modificar, actualizar, controlar y organizar fácilmente los datos.</p>
             </div>
         </article>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2 bg-gray-100'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>El lenguaje de consulta estructurada (SQL)</h2>
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
+                <p class='text-xl font-Lato text-justify'>El SQL es un lenguaje de programación que utilizan casi todas las bases de datos relacionales para consultar, manipular y definir los datos, además de para proporcionar control de acceso. 
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
-                </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>El SQL se desarrolló por primera vez en IBM en la década de 1970 con Oracle como uno de los principales contribuyentes, lo que dio lugar a la implementación del estándar ANSI SQL.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>El SQL ha propiciado muchas ampliaciones de empresas como IBM, Oracle y Microsoft. Aunque el SQL se sigue utilizando mucho hoy en día, están empezando a aparecer nuevos lenguajes de programación.</p>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/base1.png" alt="" class="relative w-full rounded">
             </div>
         </article>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>PostgreSQL</h2>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/base3.png" alt="" class="relative w-full rounded">
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
-                </p>
+                <p class='text-xl font-Lato text-justify'>PostgreSQL es un sistema de gestión de base de datos relacional open source de muy alta disponibilidad, gratuito y libre. Este sistema, fruto de las investigaciones realizadas por Michael Stonebraker, profesor de la Universidad de California en Berkeley, se optimiza de forma constante gracias a su activa comunidad de expertos.</p>
                 <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
+                    PostgreSQL, gracias a sus funcionalidades avanzadas, permite procesar gratis bases de datos de diferentes tipos y complejidades, ofreciendo un rendimiento optimizado.
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>PostgreSQL es un sistema o motor de bases de datos compatible con los servicios de OVHcloud y la mayoría de las herramientas más populares del mercado. Es compatible con diversos modelos de datos para crear aplicaciones orientadas a objetos, potentes y escalables.</p>
             </div>
         </article>
-        <footer class='bg-azulFuerte relative w-full p-4 flex flex-col flex justify-center items-center'>
-            <h5 class='text-white'>Tecnologías Web</h5>
+        <footer class='bg-azulClaro relative w-full p-4 flex flex-col flex justify-center items-center'>
+            <h5 class='text-white'>Base de Datos</h5>
             <h4 class='text-white'>UPEM</h4>
             <h3 class='text-white'>Ingenería en Sistemas</h3>
             <h3 class='text-white'>8vo Semestre</h3>

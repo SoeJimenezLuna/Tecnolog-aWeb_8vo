@@ -35,53 +35,75 @@
         </aside>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es la Ciberseguridad?</h2>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/cibe1.jpg" alt="" class="relative w-full rounded">
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
+                <p class='text-xl font-Lato text-justify'>La ciberseguridad es la práctica de proteger equipos, redes, aplicaciones de software, sistemas críticos y datos de posibles amenazas digitales. Las organizaciones tienen la responsabilidad de proteger los datos para mantener la confianza del cliente y cumplir la normativa.
                 </p>
                 <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
+                    Utilizan medidas y herramientas de ciberseguridad para proteger los datos confidenciales del acceso no autorizado, así como para evitar interrupciones en las operaciones empresariales debido a una actividad de red no deseada.
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>Las organizaciones implementan la ciberseguridad al optimizar la defensa digital entre las personas, los procesos y las tecnologías. </p>
             </div>
         </article>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2 bg-gray-100'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Importancia de la Ciberseguridad</h2>
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
+                <p class='text-xl font-Lato text-justify'>En los negocios de varios sectores, como la energía, el transporte, el comercio al detalle y la fabricación, use sistemas digitales y conectividad de alta velocidad para proporcionar un servicio eficiente al cliente y ejecutar operaciones empresariales rentables. Igual que protegen los recursos físicos, deben proteger también los recursos digitales y los sistemas frente al acceso no intencionado. 
                 </p>
                 <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
+                    El evento no intencionado de incumplimiento y acceso no autorizado a un sistema informático, una red o recursos conectados se denomina ciberataque. 
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+                <p class='text-xl font-Lato text-justify mt-4'>El éxito de un ciberataque produce la exposición, sustracción, eliminación o alteración de datos confidenciales. </p>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/cibe2.jpg" alt="" class="relative w-full rounded">
             </div>
         </article>
         <article class='relative w-full min-h-screen flex flex-row flex-wrap p-2'>
             <div class='relative w-full p-6 text-center'>
-                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>¿Qué es el desarrollo web?</h2>
+                <h2 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Tipos de ataque contra los que intenta defender la ciberseguridad</h2>
             </div>
             <div class='relative w-1/2 p-2'>
-                <img src="/img/imagen2.jpg" alt="" class="relative w-full rounded">
+                <img src="/img/cibe3.jpg" alt="" class="relative w-full rounded">
+                <br><br>
+                <img src="/img/cibe4.jpg" alt="" class="relative w-full rounded">
+                <br><br>
+                <img src="/img/cibe5.jpg" alt="" class="relative w-full rounded">
+            
             </div>
             <div class='relative w-1/2 p-2 flex flex-col justify-center'>
-                <p class='text-xl font-Lato text-justify'>El desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos
+                <p class='text-xl font-Lato text-justify'>Los profesionales de ciberseguridad se esfuerzan por contener y mitigar las amenazas, tanto nuevas como existentes, que se infiltran en los sistemas informáticos de distintas maneras. A continuación, se ofrecen algunos ejemplos de ciberamenazas comunes.
+                    <h4 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Malware</h4>
                 </p>
+
                 <p class='text-xl font-Lato text-justify mt-4'>
-                También se puede decir que el desarrollo web involucra a todas las disciplinas que se encargan de crear sitios web o aplicaciones, y aunque creamos que tiene que ver con un ámbito en específico, la realidad es que el desarrollo web involucra una cantidad de términos y herramientas que hace necesario dividir las áreas del desarrollo web para una mejor comprensión.
+                    Malware significa software malintencionado. Incluye una variedad de programas de software creados para permitir que terceras partes accedan de manera no autorizada a información confidencial o interrumpan el funcionamiento normal de una infraestructura crítica. Entre los ejemplos más comunes de malware se incluyen los troyanos, spyware y virus.
+                    <h4 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Ransomware</h4>
                 </p>
-                <p class='text-xl font-Lato text-justify mt-4'>El diseño web tiene que ver con la apariencia y lo que transmite un sitio web, es decir, que tiene que ver con el diseño gráfico, la gama de colores, logo y todo lo que comprenda la percepción visual de un sitio web.</p>
+
+                <p class='text-xl font-Lato text-justify mt-4'>
+                    Ransomware hace referencia a un modelo empresarial y a un amplio rango de tecnologías asociadas que los delincuentes pueden usar para extorsionar dinero a entidades. Independientemente de si acaba de empezar o está construyendo sobre AWS, tenemos recursos dedicados que le ayudarán a proteger los sistemas críticos y los datos confidenciales frente al ransomware.
+                    <h4 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Ataque de intermediario</h4>
+                </p>
+
+                <p class='text-xl font-Lato text-justify mt-4'>
+                    Un ataque de intermediario implica que una parte externa intenta acceder de forma no autorizada por una red durante un intercambio de datos. Dichos ataques aumentan los riesgos de seguridad de la información confidencial, como los datos financieros. 
+                    <h4 class='relative w-full p-6 text-center font-Mont font-bold text-5xl text-azulMedio'>Phishing</h4>
+                </p>
+
+                <p class='text-xl font-Lato text-justify mt-4'>
+                    Pishing es una ciberamenaza que usa técnicas de ingeniería social para engañar a los usuarios a fin de que revelen información de identificación personal. Por ejemplo, los atacantes cibernéticos envían correos electrónicos que inducen a los usuarios a hacer clic e introducir los datos de la tarjeta de crédito en una página web de pagos ficticia.  
+                </p>
+                
             </div>
         </article>
-        <footer class='bg-azulFuerte relative w-full p-4 flex flex-col flex justify-center items-center'>
+        <footer class='bg-green-950 relative w-full p-4 flex flex-col flex justify-center items-center'>
             <h5 class='text-white'>Tecnologías Web</h5>
             <h4 class='text-white'>UPEM</h4>
             <h3 class='text-white'>Ingenería en Sistemas</h3>
