@@ -36,16 +36,23 @@
             </label>
         </div>
 
-        <div class="flex items-center justify-end mt-4">
+        <div class="flex items-center justify-start mt-4">
             @if (Route::has('password.request'))
                 <a class="underline text-sm text-gray-600 hover:text-gray-900 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" href="{{ route('password.request') }}">
                     {{ __('¿Olvidaste la contraseña?') }}
                 </a>
             @endif
 
+
+
+        </div>
+        <div class="flex mt-4 ">
             <x-primary-button class="ml-3 text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">
-                {{ __('Iniciar Sesión') }}
-            </x-primary-button>
+                    {{ __('Iniciar Sesión') }}
+                </x-primary-button>
+            <a href="{{ route('register') }}" class="ml-3 text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">
+                    Crear Cuenta
+            </a>
         </div>
     </form>
 </x-guest-layout>
