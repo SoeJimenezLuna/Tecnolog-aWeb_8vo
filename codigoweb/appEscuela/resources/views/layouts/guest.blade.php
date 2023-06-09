@@ -18,10 +18,10 @@
         <div class="min-h-screen flex flex-row  sm:justify-center items-center pt-6 sm:pt-0 bg-azulMedio">
 
 
-            <div class="w-1/2 h-[75vh] sm:max-w-md flex flex-col justify-center items-center  px-6 py-4 bg-white shadow-md overflow-hidden rounded-l-lg">
+            <div class="w-1/2 h-[90vh] sm:max-w-md flex flex-col justify-center items-center overflow-y-auto px-6 py-4  bg-white shadow-md overflow-hidden rounded-l-lg">
                 {{ $slot }}
             </div>
-            <div class="w-1/2 h-[75vh] bg-azulFuerte relative flex flex-col justify-center items-center rounded-r-lg">
+            <div class="w-1/2 h-[90vh] bg-azulFuerte relative flex flex-col justify-center items-center rounded-r-lg">
                 <img src="/img/img-log.svg" alt="" class="relative w-3/4">
             </div>
         </div>
